@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260214644321",
+    "project_id": "etransport-c2431",
+    "storage_bucket": "etransport-c2431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260214644321:android:cd0b4376c7e615071a9420",
+        "android_client_info": {
+          "package_name": "com.example.eTransport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260214644321-lsm4boe2i8nejus36nbb7l40e16sp8nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKm54wzr1omhEGuO2hA_gGrE7smbaOqd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260214644321-lsm4boe2i8nejus36nbb7l40e16sp8nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
